@@ -1,6 +1,5 @@
-# for_code_Python_Training_24.2
 
-# for_code Python Bootcamp 24.2
+<h1 align="center">for_code [ ] Python Bootcamp 24.2</h1>
 
 Welcome to the **for_code Python Bootcamp 24.2** repository! This is the official repo for the Python training organized by **for_code**, an academic programming league at UFRJ. Whether you're just getting started or looking to sharpen your Python skills, this bootcamp provides a comprehensive and hands-on approach to learning Python.
 
