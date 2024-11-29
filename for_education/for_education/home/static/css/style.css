@@ -1,0 +1,13 @@
+body {
+    background :#1E1647;
+    font-family: 'Lexend', sans-serif;
+    color: #fff;
+}
+
+a {
+    color: yellow;
+}
+
+.background-custom {
+    background-color:  rgba(97, 74, 211, 0.31);
+}
