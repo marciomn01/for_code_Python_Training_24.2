@@ -3,4 +3,18 @@ body {
     font-family: 'Lexend', sans-serif;
     font-size: 72px;
     color: #fff;
+    
+    color: #FFF;
+    font-family: Lexend;
+    font-size: 96px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+
+    color: #614AD3;
+    font-family: Lexend;
+    font-size: 96px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
 }
